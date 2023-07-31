@@ -4,7 +4,7 @@ export default class Name extends Component {
   render() {
     return (
       <div>
-        <h1>My Name is Nuhash.</h1>
+        <h1>My Name is Shamura.</h1>
       </div>
     )
   }
