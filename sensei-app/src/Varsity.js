@@ -4,7 +4,7 @@ export default class Varsity extends Component {
   render() {
     return (
       <div>
-        <h1> Unfortunately, I read in GUB</h1>
+        <h1> I wanna get my MSc from MIT :p </h1>
       </div>
     )
   }
